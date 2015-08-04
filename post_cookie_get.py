@@ -1,5 +1,6 @@
 #!/usr/bin/python 
-#coding=utf-8 
+#coding=utf-8
+#code from web
 import urllib 
 import urllib2 
 def post(url, data):

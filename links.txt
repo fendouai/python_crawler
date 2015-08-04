@@ -1,0 +1,4 @@
+links:
+https://docs.python.org/2/library/internet.html
+http://www.nowamagic.net/academy/detail/1302882
+
